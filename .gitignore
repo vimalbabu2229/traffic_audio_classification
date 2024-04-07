@@ -3,3 +3,5 @@ audio_files
 backup
 traffic_dataset
 test_data
+venv
+.DS_Store
